@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Albertsons Android</string>
+    <string name="enter_an_acronym">Enter an acronym</string>
+    <string name="submit">Submit</string>
+    <string name="enter_valid_acronym">Please enter a valid acronym</string>
+    <string name="acronym">Acronym: %1$s</string>
+    <string name="frequency">Frequency: %1$s</string>
+    <string name="since">Since: %1$s</string>
+    <string name="no_results">No Search Results Found.</string>
+</resources>
